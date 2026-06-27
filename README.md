@@ -15,6 +15,7 @@ https://beamish-crumble-a2c187.netlify.app/
 
  Source Code
 
+https://github.com/Chaitra1703/myportfolio.git
 
 ---
 
@@ -119,7 +120,8 @@ GitHub: https://github.com/Chaitra1703
 
 LinkedIn: https://www.linkedin.com/in/chaitra-shivabasannavar
 
-Portfolio: https://chaitra1703.github.io/myportfolio/
+Portfolio: 
+https://beamish-crumble-a2c187.netlify.app/
 
 ---
 
