@@ -10,26 +10,11 @@ The website functions as a digital portfolio, allowing visitors to explore the d
 ## 🚀 Project Links
 
 Live Website
+https://beamish-crumble-a2c187.netlify.app/
 
-Quiz 
-https://chaitra1703.github.io/Quiz/
-MyPortfolio
-https://chaitra1703.github.io/myportfolio/
-GitHub-User-Finder
-https://chaitra1703.github.io/github-user-finder/
-Netflix UI Clone
-https://chaitra1703.github.io/netflix-clone/
 
  Source Code
 
-Netflix UI Clone
-Chaitra1703/netflix-clone
-GitHub-user-finder
-Chaitra1703/github-user-finder
-Quiz 
-Chaitra1703/Quiz
-Myportfolio
-Chaitra1703/myportfolio
 
 ---
 
